@@ -1,0 +1,82 @@
+"root":{10 items
+"name":string"Rumble Realms #19 UPDATED NFT"
+"symbol":string"RMBL"
+"description":string"Deep in the Rekt Realms, these Rumblers have evolved to exist only on the meager small gains. They battle for dominance over the Metaverse. Humans, Zombies, Apes, Nethers, and Spirit Animials are all sworn enemies."
+"seller_fee_basis_points":int450
+"image":string"https://www.arweave.net/n7XhpiAyHyyj1dWGF_WKNWXG_UQT_Q11EvFADDZqGsY?ext=png"
+"external_url":string"http://www.RumbleRealms.com/"
+"edition":int19
+"attributes":[8 items
+0:{2 items
+"trait_type":string"Background"
+"value":string"Solana"
+}
+1:{2 items
+"trait_type":string"Nether Body"
+"value":string"Light Skin"
+}
+2:{2 items
+"trait_type":string"Clothing"
+"value":string"ShibaInuRekt"
+}
+3:{2 items
+"trait_type":string"Body Damage"
+"value":string"Flawless"
+}
+4:{2 items
+"trait_type":string"Hair"
+"value":string"Eggplant"
+}
+5:{2 items
+"trait_type":string"Eyes"
+"value":string"VR Shades"
+}
+6:{2 items
+"trait_type":string"Accessory"
+"value":string"Keep It Simple"
+}
+7:{2 items
+"trait_type":string"Mouth"
+"value":string"Curious Zombie"
+}
+]
+"properties":{3 items
+"files":[1 item
+0:{2 items
+"uri":string"https://www.arweave.net/n7XhpiAyHyyj1dWGF_WKNWXG_UQT_Q11EvFADDZqGsY?ext=png"
+"type":string"image/png"
+}
+]
+"category":string"image"
+"creators":[4 items
+0:{2 items
+"address":string"32fJkEcQxGFc6bnHnpSRGf7v9UTHrPZJVEtDCsfdE5Zo"
+"share":int25
+}
+1:{2 items
+"address":string"DMmwFmk4hKyRe2RHLUQxdsQcrS4HTk8KZ3KWioytHNbD"
+"share":int25
+}
+2:{2 items
+"address":string"8R8pizrafqBYSXYkdXc1jhfkRD9T3N8GkgMNcEcNLwUw"
+"share":int25
+}
+3:{2 items
+"address":string"Aw1yoZi6ABmDYRVBjwRia1RYMUZaT7RKhAuY1fbn4rzH"
+"share":int25
+}
+]
+}
+"status":[2 items
+0:{3 items
+"name":string"Secondary Market"
+"value":int1
+"type":string"primarySaleHappened"
+}
+1:{3 items
+"name":string"Mutable"
+"value":int1
+"type":string"primarySaleHappened"
+}
+]
+}
